@@ -14,7 +14,7 @@ The purpose of this repository is to provide full transparency and reproducibili
 
 ## Contents
 
-- **Thesis PDF**: `2025, Petržílka - The Trade Effect of Euro Adoption.pdf` (full thesis text)
+- **Thesis PDF**: 2025, Petržílka - The Trade Effect of Euro Adoption (full thesis text `.pdf`)
 - **Appendix A**: Data preparation in R (`.html`)  
 - **Appendix B**: Dataset comparison in R (`.html`)  
 - **Appendix C**: Reduced-form analysis (`.html`)  
